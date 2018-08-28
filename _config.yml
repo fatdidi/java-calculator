@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: "/java-calculator"
+url: "https://fatdidi.github.io"
 title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+description: "A calculator coded in Java" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
